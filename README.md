@@ -1,0 +1,2 @@
+# CT Reconstruction Through FBP
+ Filtered back Projection (FBP) is the standard algorithm applied in order to reconstruct biomedical images from projections. In this report the reconstruction performances are discussed, in dependence from parameters like the number of projections, the amount of noise and the type of filter used. Moreover, a new FBP algorithm is implemented, and its performance is evaluated on both a 2D and 3D Shepp-Logan phantom.
